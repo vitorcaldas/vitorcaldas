@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**vitorcaldas/vitorcaldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👋 Hello!
+ My name is Vitor Caldas!
 
-Here are some ideas to get you started:
+- 🌱 Dev. Back-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 💬 A proactive, disciplined professional, open to new learning, able to work as part of a team and under pressure.
+
+Languages and Tools 
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />
+
+Contact
+
+<div>
+<a href="https://www.linkedin.com/in/vitor-caldas-195044362/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+                    
+
