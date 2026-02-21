@@ -2,7 +2,7 @@
  👋 Hello!
  My name is Vitor Caldas!
 
-- 🌱 Data scientist.
+- 🌱 Back-End Developer.
 
 
 - 💬 A proactive, disciplined professional, open to new learning, able to work as part of a team and under pressure.
