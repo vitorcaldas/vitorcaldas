@@ -2,7 +2,7 @@
  👋 Hello!
  My name is Vitor Caldas!
 
-- 🌱 data analyst | Data scientist.
+- 🌱 Data analyst | Data scientist.
 
 
 - 💬 A proactive, disciplined professional, open to new learning, able to work as part of a team and under pressure.
