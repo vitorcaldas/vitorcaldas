@@ -2,10 +2,10 @@
  👋 Hello!
  My name is Vitor Caldas!
 
-- 🌱 Data Engineer and ML Engineer.
+- 🌱 Data Scientist | AI Developer.
 
 
-- 💬 A proactive, disciplined professional, open to new learning, able to work as part of a team and under pressure.
+- 💬 Data Scientist and AI Solutions Developer with a strong foundation in Python, SQL, Machine Learning, Deep Learning, and Exploratory Data Analysis. Experienced in building data pipelines, predictive modeling, and practical projects integrating LLMs and cloud technologies. Focused on transforming raw data into strategic insights and intelligent business solutions.
 
 Languages and Tools :
 
