@@ -2,10 +2,10 @@
  👋 Hello!
  My name is Vitor Caldas!
 
-- 🌱 Data Scientist | AI Developer.
+- 🌱 AI Developer.
 
 
-- 💬 Data Scientist and AI Solutions Developer with a strong foundation in Python, SQL, Machine Learning, Deep Learning, and Exploratory Data Analysis. Experienced in building data pipelines, predictive modeling, and practical projects integrating LLMs and cloud technologies. Focused on transforming raw data into strategic insights and intelligent business solutions.
+- 💬 AI-focused developer skilled in transforming raw data into strategic insights and intelligent business solutions.
 
 Languages and Tools :
 
