@@ -2,7 +2,7 @@
  👋 Hello!
  My name is Vitor Caldas!
 
-- 🌱 AI Developer.
+- 🌱 Data & AI Specialist.
 
 
 - 💬 AI-focused developer skilled in transforming raw data into strategic insights and intelligent business solutions.
