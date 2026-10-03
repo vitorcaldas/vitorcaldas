@@ -2,10 +2,10 @@
  👋 Hello!
  My name is Vitor Caldas!
 
-- 🌱 Data Scientist.
+- 🌱 Data Analyst.
 
 
-- 💬 Data science-focused developer with the ability to transform raw data into strategic insights and intelligent business solutions.
+- 💬 Developer focused on data analysis with the ability to transform raw data into strategic insights and intelligent business solutions.
 
 Languages and Tools :
 
