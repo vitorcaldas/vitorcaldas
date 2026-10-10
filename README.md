@@ -5,7 +5,7 @@
 
 - 💬 Desenvolvedor com foco em ciência de dados, capaz de transformar dados brutos em insights estratégicos e soluções de negócios inteligentes.
 
-Linguagens e ferramentas :
+Linguagens:
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
