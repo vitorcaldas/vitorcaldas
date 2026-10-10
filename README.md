@@ -12,7 +12,7 @@ Linguagens:
  width="40" height="40"/>
 
 
-Linkedln :
+Rede social :
 
 <div>
 <a href="https://www.linkedin.com/in/vitor-caldas-195044362/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
