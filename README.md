@@ -1,9 +1,9 @@
 
  👋 Hello!
 
-- Eu sou Vitor Caldas, analista e cientista de dados.
+- Eu sou Vitor Caldas, cientista de dados.
 
-- Desenvolvedor com foco em de transformar dados brutos em insights estratégicos e soluções de negócios inteligentes.
+- Desenvolvedor em ciência de dados com foco em de transformar dados brutos em insights estratégicos e soluções de negócios inteligentes.
 
 Linguagens:
 
